@@ -11,3 +11,7 @@ Soluções dos desafios dos bootcamps da Dio.me.
 | Formação Python Developer | [Mês](https://github.com/brgillian/desafios_bootcamp_dio/blob/main/formacao-python-developer/02-mes.py)| Básico | Dio|
 | Formação Python Developer | [Encaixa ou não](https://github.com/brgillian/desafios_bootcamp_dio/blob/main/formacao-python-developer/03-encaixa-ou-nao.py)|Básico | Dio|
 | Formação Python Developer | [Dragão](https://github.com/gillianoliveira/desafios_bootcamp_dio/blob/main/formacao-python-developer/04-dragao.py)|Intermediário | Dio|
+| Formação Python Developer | [Aproveite a Oferta](https://github.com/gillianoliveira/desafios_bootcamp_dio/blob/main/formacao-python-developer/05-aproveite-a-oferta.py)|Intermediário | Dio|
+| Bootcamp Python AI Backend Developer | [Verificador de Planos de Internet](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-01-verificador-planos-internet.py)|Básico | Vivo|
+| Bootcamp Python AI Backend Developer | [Criando uma lista de equipamentos](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-02-criando-lista-equipamentos.py)|Básico | Vivo|
+| Bootcamp Python AI Backend Developer | [Validando números de telefone](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-03-validando-numeros-telefone.py)|Básico | Vivo|
