@@ -3,7 +3,7 @@
 Soluções dos desafios dos bootcamps da Dio.me.
 
 | Bootcamp               | Desafio                       | Nível       |  Empresa         |
-|--                      |--                             |--           |--                |                  
+|--                      |--                             |--           |--                |
 | Python Data Analytics  | [Aventura do Explorador](https://github.com/brgillian/desafios_bootcamp_dio/blob/main/python_data_analytics/01-aventura-do-explorador.py)               | Básico      | Squadio          |
 | Python Data Analytics  | [Lista de Itens](https://github.com/brgillian/desafios_bootcamp_dio/blob/main/python_data_analytics/02-lista-de-itens.py)                               | Básico      | Squadio          |
 | Python Data Analytics  | [Armazenamento de dados é vida](https://github.com/brgillian/desafios_bootcamp_dio/blob/main/python_data_analytics/03-armazenamento-de-dados-e-vida.py) | Básico      | Squadio          |
@@ -15,3 +15,7 @@ Soluções dos desafios dos bootcamps da Dio.me.
 | Bootcamp Python AI Backend Developer | [Verificador de Planos de Internet](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-01-verificador-planos-internet.py)|Básico | Vivo|
 | Bootcamp Python AI Backend Developer | [Criando uma lista de equipamentos](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-02-criando-lista-equipamentos.py)|Básico | Vivo|
 | Bootcamp Python AI Backend Developer | [Validando números de telefone](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-03-validando-numeros-telefone.py)|Básico | Vivo|
+| Bootcamp Python AI Backend Developer | [Criando uma classe de usuário](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-04-classe-user.py)|Intermediário | Vivo|
+| Bootcamp Python AI Backend Developer | [Adicionando funcionalidades ao plano](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-05-adicionando-funcionalidades.py)|Intermediário | Vivo|
+| Bootcamp Python AI Backend Developer | [Realizando chamadas](https://github.com/gillianoliveira/bootcamp-python-ia-backend-developer/blob/main/desafios-codigo-fundamentos/desafio-06-realizando-chamadas.py)|Intermediário | Vivo|
+
